@@ -1,4 +1,4 @@
-**Please note that this GitHub is for MB-901T00, a new version of the Dynamics 365 Fundamentals course, which is scheduled for release in early February. This repository does not correspond to MB-900T01, the previous version, which does not have labs.**
+**Please note that this GitHub is for MB-901T00, a new version of the Dynamics 365 Fundamentals course. This repository does not correspond to MB-900T01, the previous version, which does not have labs.**
 
 # MB-901T00: Dynamics 365 Fundamentals
 
