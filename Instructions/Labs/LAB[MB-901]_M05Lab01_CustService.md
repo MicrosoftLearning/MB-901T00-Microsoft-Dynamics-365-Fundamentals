@@ -7,14 +7,6 @@ lab:
 # MB-901: Dynamics 365 Fundamentals 
 ## Module 5, Lab 1 - Explore Dynamics 365 Customer Service 
 
-**Prerequisites:** Prior to performing the steps of this lab, perform the following tasks: 
-
-**Optional:**
-1. In your Dynamics 365 instance, go to **Settings** > **Data Management**. 
-1. Select **Sample Data**. 
-1. If the sample data isn't installed, select **Install Sample Data**. The sample data might take a few minutes to appear, but you can continue to use the application while it's installed. 
-1. Select **Close**. 
-
 **Scenario:**
 As a customer service representative, you need to keep track of your customer requests and issues by creating support cases in Dynamics 365 Customer Service. When a customer contacts support with a question or problem, you can quickly check if there is an existing case or open a new case and start tracking the issue. You can also escalate, reassign, or put a case back into the service queue if you don’t have enough information or time to work on it.
 
@@ -29,10 +21,9 @@ To help you select the right status of a case, your administrator may have set t
 1. In the **Customer Service Hub**, go to **Service** > **Cases**.
 1. Select **New Case**.
 1. In the **Case Title** field, type **Seahorse Smart Watch**.
-1. In the **Customer** field, select customer **Fabrikam.** 
+1. In the **Customer** field, select customer **Fabrikam** and select an existing record for the account.
 1. In the **Description** field, type **Issue with the Smart watch**
 1. Click **Details** tab.
-1. In the **Contact** field, select the **Contact lookup** button and select an existing contact for the case or select **New** in the inline lookup results to create a new contact record.
 1. Click **Save**.
 1. To track your conversation with the customer, in the **Timeline** section click **+** to add info and activities.
 1. Click **Note**.

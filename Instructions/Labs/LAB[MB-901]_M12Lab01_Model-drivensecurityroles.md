@@ -9,6 +9,8 @@ lab:
 
 **Scenario:** As a system administrator, you need to find out what are the available out of the box security roles of Dynamics 365.
 
+**Note:**  Given that this lab requires admin access to the environment, this lab will need to be demonstrated by the instructor.
+
 ## Instructions
 
 1. In order to navigate to Dynamics 365 Settings dashboard, add **?settingsonly=true** at the end of the URL link of your Dynamics 365 business applications. Your URL should look like the following: **https://crmYOURID.crm.dynamics.com/main.aspx?settingsonly=true**. (This example resembles a sample only and does not work if you navigate to it.)

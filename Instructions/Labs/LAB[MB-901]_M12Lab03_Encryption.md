@@ -9,6 +9,8 @@ lab:
 
 **Scenario:** You, as a system administrator need to change and copy the organization encryption key.
 
+**Note**: Given that students do not have adminstrator access to the environment, the instructor will need to demo this lab.
+
 ## Instructions
 
 1. Navigate to Power Platform Admin center.  
