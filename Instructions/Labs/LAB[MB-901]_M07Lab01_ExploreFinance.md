@@ -12,8 +12,8 @@ lab:
 following tasks: 
 
 **Note:** You need a deployed environment with demo data prior to perform
-this lab. Your Dynamics 365 Finance and Operations apps instance, can be
-lunched either from LCS or by directly going to the URL of the instance.
+this lab. Your Dynamics 365 Finance and Operations apps instance can be
+launched by directly going to the URL of the instance.
 
 You will need to change the company to **USMF.** In order to login to the Dynamics 365 Finance and Operations apps instance you need to have a user name and password with either **Chief Executive Officer** or a **System administrator** security role.
 
