@@ -62,8 +62,8 @@ In **USMF**, you need to create a new item (V neck T-shirt) to buy.  This item w
 1. Click **OK**. 
 1. Close all pages.
 1. Navigate to **Product information management** > **Products** > **Released products**.
-1. Using quick filter search by item number for **GTLS001**.
-1. Click item **GTLS001** to open the product master record.
+1. Using quick filter search by item number for **GTLPM001**.
+1. Click item **GTLPM001** to open the product master record.
 1. Click the **Product dimensions** button from **Product action** pane.
 1. Select the **Sizes** tab.
 1. Click **New in the Define sizes for a product master** section.
