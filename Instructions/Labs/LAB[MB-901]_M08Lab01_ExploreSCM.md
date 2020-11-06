@@ -59,7 +59,7 @@ In **USMF**, you need to create a new item (V neck T-shirt) to buy.  This item w
 1. In the **Purchase Taxation, Item sales tax group** field, select **ALL **(All sales tax codes)
 1. In the **Purchase price** field, type **19.95**
 1. In the **Sales price** field, type **29.95**
-1. In the Click **OK**. **missing part of this**
+1. Click **OK**. 
 1. Close all pages.
 1. Navigate to **Product information management** > **Products** > **Released products**.
 1. Using quick filter search by item number for **GTLS001**.
