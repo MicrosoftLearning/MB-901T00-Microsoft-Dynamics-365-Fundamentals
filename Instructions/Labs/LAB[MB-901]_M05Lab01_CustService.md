@@ -23,16 +23,16 @@ To help you select the right status of a case, your administrator may have set t
 1. In the **Case Title** field, type **Seahorse Smart Watch**.
 1. In the **Customer** field, select customer **Fabrikam** and select an existing record for the account.
 1. In the **Description** field, type **Issue with the Smart watch**
-1. Click **Details** tab.
-1. Click **Save**.
+1. Select **Details** tab.
+1. Select **Save**.
 1. To track your conversation with the customer, in the **Timeline** section click **+** to add info and activities.
-1. Click **Note**.
+1. Select **Note**.
 1. In the **Title** field, type **Smart Watch Defect**.
 1. In the **Note** field, type **Send for repair**.
-1. Click **Add note**. 
+1. Select **Add note**. 
 14.	To see what kind of support you should provide the customer, select the **Entitlements lookup** button and select an active entitlement.
  **Note:** If there is no entitlement on the customer, this will be blank.
-1. Click **Save**.
+1. Select **Save**.
 
 ### Find a solution from similar cases
 
