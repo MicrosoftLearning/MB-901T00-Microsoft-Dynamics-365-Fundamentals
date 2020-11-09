@@ -29,13 +29,13 @@ Navigate to **Modules>Demo Data**, and click **Generate data** then click
 
 2.  Go to **General ledger > Currencies > Exchange rate types**.
 
-3.  Click **New**.
+3.  Select **New**.
 
 4.  In the **Exchange rate type** field, type 'GTL-EXCH'.
 
 5.  In the **Name** field, type 'Seahorse Exchange Rate'.
 
-6.  Click **Exchange rates**.
+6.  Select **Exchange rates**.
 
 7.  Note there is not any exchange rates available.
 
@@ -45,11 +45,11 @@ Navigate to **Modules>Demo Data**, and click **Generate data** then click
 
 10. Go to **General ledger > Currencies > Configure exchange rate providers**.
 
-11. Click **New**.
+11. Select **New**.
 
 12. Select **Central Bank of the Russian Federation**
 
-13. Click **OK**.
+13. Select **OK**.
 
 14. Close the page.
 
@@ -62,13 +62,13 @@ Navigate to **Modules>Demo Data**, and click **Generate data** then click
 18. In the **Exchange rate provider** field, enter or select **Central Bank of
     the Russian Federation**
 
-19. Click **OK**.
+19. Select **OK**.
 
 20. Go to **General ledger > Currencies > Exchange rate types**.
 
 21. Select **GTL-EXCH**
 
-22. Click **Exchange rates**.
+22. Select **Exchange rates**.
 
 23. Note the imported values
 
@@ -78,7 +78,7 @@ Navigate to **Modules>Demo Data**, and click **Generate data** then click
 
 1.  Go to **Accounts Payables > Purchase orders > All purchase orders**.
 
-2.  Click **New**.
+2.  Select **New**.
 
 3.  In the **Vendor account** field, select **1001 Acme Office Supplies**.
 
@@ -90,15 +90,15 @@ Navigate to **Modules>Demo Data**, and click **Generate data** then click
 
 7.  On the Action Pane, click **Purchase**.
 
-8.  Click **Confirm**.
+8.  Select **Confirm**.
 
 9.  On the Action Pane, click **Receive**.
 
-10. Click **Product receipt**.
+10. Select **Product receipt**.
 
 11. In the **Product receipt** field, type **GTL02020**.
 
-12. Click **OK**.
+12. Select **OK**.
 
 13. Close all forms.
 
