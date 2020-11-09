@@ -9,10 +9,10 @@ lab:
 
 **Prerequisites:** Prior to performing the steps of this lab, perform the following tasks: 
 1. Go to **Marketing** > **Files**.
-1. Click **New**.
-1. Click **Add files**.
+1. Select **New**.
+1. Select **Add files**.
 1. Upload at least one image from your desktop.
-1. Click **Upload**.
+1. Select **Upload**.
 1. Once the upload is complete, click **Done.**
 
 ### Create engaging emails
